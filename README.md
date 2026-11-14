@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**ayajamal1322003-eng/ayajamal1322003-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Aya Jamal 👋
+Cybersecurity Graduate | Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about backend development, secure systems, and building practical software solutions.
+
+Tech Stack
+
+C++
+
+Python
+
+JavaScript
+
+SQL
+
+ASP.NET Core
+
+Git
+
+Linux
+
+Featured Projects
+
+💊 PharmaChain
+
+Blockchain-based pharmaceutical traceability platform.
+
+💻 Portfolio
+
+Personal website showcasing my development projects and skills.
