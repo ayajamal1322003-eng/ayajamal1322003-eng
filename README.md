@@ -1,32 +1,36 @@
 
+# Hi, I'm Aya Abu Zahra 👋
 
-Hi, I'm Aya Jamal 👋
-Cybersecurity Graduate | Aspiring Software Engineer
+**Cybersecurity Graduate | Software Engineering & Secure Systems**
 
-Passionate about backend development, secure systems, and building practical software solutions.
+I'm a Cybersecurity graduate from Tafila Technical University, interested in software development, backend technologies, and building secure, reliable applications.
 
-Tech Stack
+My experience includes academic projects in blockchain-based traceability, digital forensics, and Linux server deployment, along with practical training through Amman 42 and the National Cyber Security Center's Masar program.
 
-C++
+## 🛠️ Technical Skills
 
-Python
+- **Programming:** C++, Python, JavaScript
+- **Web & Backend:** HTML, CSS, ASP.NET Core
+- **Databases:** SQL
+- **Tools:** Git, GitHub, Linux
+- **Cybersecurity:** Nmap, Wireshark, Cisco Packet Tracer, FTK Imager, Autopsy
 
-JavaScript
+## 🚀 Featured Projects
 
-SQL
+### 💊 [PharmaChain](https://github.com/ayajamal1322003-eng/Pharma-Chain)
+Blockchain-based pharmaceutical traceability platform designed to help detect counterfeit medicines through QR code verification.
 
-ASP.NET Core
+**Key technologies:** Proof-of-Work, HMAC-SHA256, JWT Authentication, Role-Based Access Control.
 
-Git
+### 💻 [Portfolio Website](https://github.com/ayajamal1322003-eng/portfolio)
+Personal developer portfolio showcasing my projects, technical skills, and experience.
 
-Linux
+**Technologies:** HTML, CSS, JavaScript
 
-Featured Projects
+[🌐 View Live Portfolio](https://ayajamal1322003-eng.github.io/portfolio/)
 
-💊 PharmaChain
+## 📫 Connect With Me
 
-Blockchain-based pharmaceutical traceability platform.
-
-💻 Portfolio
-
-Personal website showcasing my development projects and skills.
+- [LinkedIn](https://www.linkedin.com/in/aya-jamal-2a4651279)
+- [Portfolio](https://ayajamal1322003-eng.github.io/portfolio/)
+  
